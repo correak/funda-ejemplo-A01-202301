@@ -1,0 +1,40 @@
+D:\Trabajo\UPC\Clases 2023\2023-02\FSI\Código\MultilistaCamionCarga\bin\Debug\net6.0-windows\MultilistaCamionCarga.exe
+D:\Trabajo\UPC\Clases 2023\2023-02\FSI\Código\MultilistaCamionCarga\bin\Debug\net6.0-windows\MultilistaCamionCarga.deps.json
+D:\Trabajo\UPC\Clases 2023\2023-02\FSI\Código\MultilistaCamionCarga\bin\Debug\net6.0-windows\MultilistaCamionCarga.runtimeconfig.json
+D:\Trabajo\UPC\Clases 2023\2023-02\FSI\Código\MultilistaCamionCarga\bin\Debug\net6.0-windows\MultilistaCamionCarga.dll
+D:\Trabajo\UPC\Clases 2023\2023-02\FSI\Código\MultilistaCamionCarga\bin\Debug\net6.0-windows\MultilistaCamionCarga.pdb
+D:\Trabajo\UPC\Clases 2023\2023-02\FSI\Código\MultilistaCamionCarga\obj\Debug\net6.0-windows\MultilistaCamionCarga.frmPrincipal.resources
+D:\Trabajo\UPC\Clases 2023\2023-02\FSI\Código\MultilistaCamionCarga\obj\Debug\net6.0-windows\MultilistaCamionCarga.frmregistrarCamion.resources
+D:\Trabajo\UPC\Clases 2023\2023-02\FSI\Código\MultilistaCamionCarga\obj\Debug\net6.0-windows\MultilistaCamionCarga.frmRegistrarCliente.resources
+D:\Trabajo\UPC\Clases 2023\2023-02\FSI\Código\MultilistaCamionCarga\obj\Debug\net6.0-windows\MultilistaCamionCarga.frmRegistrarVenta.resources
+D:\Trabajo\UPC\Clases 2023\2023-02\FSI\Código\MultilistaCamionCarga\obj\Debug\net6.0-windows\MultilistaCamionCarga.frmReportes.resources
+D:\Trabajo\UPC\Clases 2023\2023-02\FSI\Código\MultilistaCamionCarga\obj\Debug\net6.0-windows\MultilistaCamionCarga.csproj.GenerateResource.cache
+D:\Trabajo\UPC\Clases 2023\2023-02\FSI\Código\MultilistaCamionCarga\obj\Debug\net6.0-windows\MultilistaCamionCarga.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trabajo\UPC\Clases 2023\2023-02\FSI\Código\MultilistaCamionCarga\obj\Debug\net6.0-windows\MultilistaCamionCarga.AssemblyInfoInputs.cache
+D:\Trabajo\UPC\Clases 2023\2023-02\FSI\Código\MultilistaCamionCarga\obj\Debug\net6.0-windows\MultilistaCamionCarga.AssemblyInfo.cs
+D:\Trabajo\UPC\Clases 2023\2023-02\FSI\Código\MultilistaCamionCarga\obj\Debug\net6.0-windows\MultilistaCamionCarga.csproj.CoreCompileInputs.cache
+D:\Trabajo\UPC\Clases 2023\2023-02\FSI\Código\MultilistaCamionCarga\obj\Debug\net6.0-windows\MultilistaCamionCarga.dll
+D:\Trabajo\UPC\Clases 2023\2023-02\FSI\Código\MultilistaCamionCarga\obj\Debug\net6.0-windows\refint\MultilistaCamionCarga.dll
+D:\Trabajo\UPC\Clases 2023\2023-02\FSI\Código\MultilistaCamionCarga\obj\Debug\net6.0-windows\MultilistaCamionCarga.pdb
+D:\Trabajo\UPC\Clases 2023\2023-02\FSI\Código\MultilistaCamionCarga\obj\Debug\net6.0-windows\MultilistaCamionCarga.genruntimeconfig.cache
+D:\Trabajo\UPC\Clases 2023\2023-02\FSI\Código\MultilistaCamionCarga\obj\Debug\net6.0-windows\ref\MultilistaCamionCarga.dll
+C:\Users\acer\Downloads\MultilistaCamionCarga(1)\bin\Debug\net6.0-windows\MultilistaCamionCarga.exe
+C:\Users\acer\Downloads\MultilistaCamionCarga(1)\bin\Debug\net6.0-windows\MultilistaCamionCarga.deps.json
+C:\Users\acer\Downloads\MultilistaCamionCarga(1)\bin\Debug\net6.0-windows\MultilistaCamionCarga.runtimeconfig.json
+C:\Users\acer\Downloads\MultilistaCamionCarga(1)\bin\Debug\net6.0-windows\MultilistaCamionCarga.dll
+C:\Users\acer\Downloads\MultilistaCamionCarga(1)\bin\Debug\net6.0-windows\MultilistaCamionCarga.pdb
+C:\Users\acer\Downloads\MultilistaCamionCarga(1)\obj\Debug\net6.0-windows\MultilistaCamionCarga.frmPrincipal.resources
+C:\Users\acer\Downloads\MultilistaCamionCarga(1)\obj\Debug\net6.0-windows\MultilistaCamionCarga.frmregistrarCamion.resources
+C:\Users\acer\Downloads\MultilistaCamionCarga(1)\obj\Debug\net6.0-windows\MultilistaCamionCarga.frmRegistrarCliente.resources
+C:\Users\acer\Downloads\MultilistaCamionCarga(1)\obj\Debug\net6.0-windows\MultilistaCamionCarga.frmRegistrarVenta.resources
+C:\Users\acer\Downloads\MultilistaCamionCarga(1)\obj\Debug\net6.0-windows\MultilistaCamionCarga.frmReportes.resources
+C:\Users\acer\Downloads\MultilistaCamionCarga(1)\obj\Debug\net6.0-windows\MultilistaCamionCarga.csproj.GenerateResource.cache
+C:\Users\acer\Downloads\MultilistaCamionCarga(1)\obj\Debug\net6.0-windows\MultilistaCamionCarga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Downloads\MultilistaCamionCarga(1)\obj\Debug\net6.0-windows\MultilistaCamionCarga.AssemblyInfoInputs.cache
+C:\Users\acer\Downloads\MultilistaCamionCarga(1)\obj\Debug\net6.0-windows\MultilistaCamionCarga.AssemblyInfo.cs
+C:\Users\acer\Downloads\MultilistaCamionCarga(1)\obj\Debug\net6.0-windows\MultilistaCamionCarga.csproj.CoreCompileInputs.cache
+C:\Users\acer\Downloads\MultilistaCamionCarga(1)\obj\Debug\net6.0-windows\MultilistaCamionCarga.dll
+C:\Users\acer\Downloads\MultilistaCamionCarga(1)\obj\Debug\net6.0-windows\refint\MultilistaCamionCarga.dll
+C:\Users\acer\Downloads\MultilistaCamionCarga(1)\obj\Debug\net6.0-windows\MultilistaCamionCarga.pdb
+C:\Users\acer\Downloads\MultilistaCamionCarga(1)\obj\Debug\net6.0-windows\MultilistaCamionCarga.genruntimeconfig.cache
+C:\Users\acer\Downloads\MultilistaCamionCarga(1)\obj\Debug\net6.0-windows\ref\MultilistaCamionCarga.dll
